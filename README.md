@@ -9,4 +9,11 @@ the sinking of the Titanic as well as demoing graphs that are used to describe t
 as well as showcasing the ability to use python to transform data, visualize data, and create reports by
 using the following libraries:
   
-  *
+  *Pandas, a robust data analysis and data manipulation tool
+  *The building of arrays using Series
+  *Using DataFrame to create data structures with rows and columns
+  *Matplotlib for creating interactive data visualizations
+  *Numpy for mathematical operations and data manipulation
+  *Seaborn as a interface to Matplotlib in creating graphs
+  *The use of Seaborn's countplots to create histograms
+  

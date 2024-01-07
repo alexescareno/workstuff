@@ -1,7 +1,7 @@
 # A project using Python to scrape, transform, and visualize data using the public Titanic sample Database.
 
 
-## This is a project that uses many techniques and libraries in Python to develop tools and visuals that can be used in a data analysis position
+## This project that uses many techniques and libraries in Python to develop tools and visuals that can be used in a data analysis position
 
 
 This is a project that uses python's robust libraries to determine the factors that helped someone survive 
